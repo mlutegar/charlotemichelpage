@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Banner 1",
+    "image": "/imagens/banner/banner1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Banner 2",
+    "image": "/imagens/banner/banner2.jpg"
+  }
+]

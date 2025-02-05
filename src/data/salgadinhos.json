@@ -1,0 +1,178 @@
+[
+  {
+    "nome": "Kibe",
+    "urlfoto": "imagens/salgadinhos/salgadinho1.jpg",
+    "descricao": "Tradicional kibe fritura com recheio de carne temperada e toque de hortelã.",
+    "quantidade_unidades": 50,
+    "categoria": "fritura",
+    "novidade": false
+  },
+  {
+    "nome": "Coxinha de Frango",
+    "urlfoto": "imagens/salgadinhos/salgadinho2.jpg",
+    "descricao": "Clássica coxinha de frango com recheio cremoso e massa leve.",
+    "quantidade_unidades": 50,
+    "categoria": "frito-congelado",
+    "novidade": false
+  },
+  {
+    "nome": "Mini Churros",
+    "urlfoto": "imagens/salgadinhos/salgadinho3.jpg",
+    "descricao": "Mini churros crocantes recheados com doce de leite, ideais para sobremesas.",
+    "quantidade_unidades": 50,
+    "categoria": "forno",
+    "novidade": true
+  },
+  {
+    "nome": "Bolinha de Queijo",
+    "urlfoto": "imagens/salgadinhos/salgadinho4.jpg",
+    "descricao": "Deliciosa bolinha recheada com queijo cremoso, perfeita para festas.",
+    "quantidade_unidades": 50,
+    "categoria": "fritura",
+    "novidade": false
+  },
+  {
+    "nome": "Enroladinho de Salsicha",
+    "urlfoto": "imagens/salgadinhos/salgadinho5.jpg",
+    "descricao": "Massa macia e saborosa recheada com salsicha, ideal para lanches.",
+    "quantidade_unidades": 50,
+    "categoria": "frito-congelado",
+    "novidade": true
+  },
+  {
+    "nome": "Risole de Carne",
+    "urlfoto": "imagens/salgadinhos/salgadinho6.jpg",
+    "descricao": "Risole crocante com recheio suculento de carne moída bem temperada.",
+    "quantidade_unidades": 50,
+    "categoria": "forno",
+    "novidade": false
+  },
+  {
+    "nome": "Coxinha de Calabresa",
+    "urlfoto": "imagens/salgadinhos/salgadinho7.jpg",
+    "descricao": "Coxinha recheada com calabresa picada e temperada, sabor marcante.",
+    "quantidade_unidades": 50,
+    "categoria": "fritura",
+    "novidade": true
+  },
+  {
+    "nome": "Croquete de Carne",
+    "urlfoto": "imagens/salgadinhos/salgadinho8.jpg",
+    "descricao": "Croquete com carne desfiada e temperos especiais, empanado e crocante.",
+    "quantidade_unidades": 50,
+    "categoria": "fritura",
+    "novidade": false
+  },
+  {
+    "nome": "Empadinha de Frango",
+    "urlfoto": "imagens/salgadinhos/salgadinho9.jpg",
+    "descricao": "Empadinha de massa amanteigada com recheio cremoso de frango desfiado.",
+    "quantidade_unidades": 50,
+    "categoria": "forno",
+    "novidade": true
+  },
+  {
+    "nome": "Pastelzinho de Queijo",
+    "urlfoto": "imagens/salgadinhos/salgadinho10.jpg",
+    "descricao": "Mini pastel recheado com queijo mussarela derretido e massa crocante.",
+    "quantidade_unidades": 50,
+    "categoria": "frito-congelado",
+    "novidade": false
+  },
+  {
+    "nome": "Esfiha de Carne",
+    "urlfoto": "imagens/salgadinhos/salgadinho11.jpg",
+    "descricao": "Esfiha de massa leve recheada com carne moída e temperos tradicionais.",
+    "quantidade_unidades": 50,
+    "categoria": "forno",
+    "novidade": false
+  },
+  {
+    "nome": "Kibe",
+    "urlfoto": "imagens/salgadinhos/salgadinho1.jpg",
+    "descricao": "Tradicional kibe fritura com recheio de carne temperada e toque de hortelã.",
+    "quantidade_unidades": 50,
+    "categoria": "fritura",
+    "novidade": false
+  },
+  {
+    "nome": "Coxinha de Frango",
+    "urlfoto": "imagens/salgadinhos/salgadinho2.jpg",
+    "descricao": "Clássica coxinha de frango com recheio cremoso e massa leve.",
+    "quantidade_unidades": 50,
+    "categoria": "frito-congelado",
+    "novidade": false
+  },
+  {
+    "nome": "Mini Churros",
+    "urlfoto": "imagens/salgadinhos/salgadinho3.jpg",
+    "descricao": "Mini churros crocantes recheados com doce de leite, ideais para sobremesas.",
+    "quantidade_unidades": 50,
+    "categoria": "forno",
+    "novidade": true
+  },
+  {
+    "nome": "Bolinha de Queijo",
+    "urlfoto": "imagens/salgadinhos/salgadinho4.jpg",
+    "descricao": "Deliciosa bolinha recheada com queijo cremoso, perfeita para festas.",
+    "quantidade_unidades": 50,
+    "categoria": "fritura",
+    "novidade": false
+  },
+  {
+    "nome": "Enroladinho de Salsicha",
+    "urlfoto": "imagens/salgadinhos/salgadinho5.jpg",
+    "descricao": "Massa macia e saborosa recheada com salsicha, ideal para lanches.",
+    "quantidade_unidades": 50,
+    "categoria": "frito-congelado",
+    "novidade": true
+  },
+  {
+    "nome": "Risole de Carne",
+    "urlfoto": "imagens/salgadinhos/salgadinho6.jpg",
+    "descricao": "Risole crocante com recheio suculento de carne moída bem temperada.",
+    "quantidade_unidades": 50,
+    "categoria": "forno",
+    "novidade": false
+  },
+  {
+    "nome": "Coxinha de Calabresa",
+    "urlfoto": "imagens/salgadinhos/salgadinho7.jpg",
+    "descricao": "Coxinha recheada com calabresa picada e temperada, sabor marcante.",
+    "quantidade_unidades": 50,
+    "categoria": "fritura",
+    "novidade": true
+  },
+  {
+    "nome": "Croquete de Carne",
+    "urlfoto": "imagens/salgadinhos/salgadinho8.jpg",
+    "descricao": "Croquete com carne desfiada e temperos especiais, empanado e crocante.",
+    "quantidade_unidades": 50,
+    "categoria": "fritura",
+    "novidade": false
+  },
+  {
+    "nome": "Empadinha de Frango",
+    "urlfoto": "imagens/salgadinhos/salgadinho9.jpg",
+    "descricao": "Empadinha de massa amanteigada com recheio cremoso de frango desfiado.",
+    "quantidade_unidades": 50,
+    "categoria": "forno",
+    "novidade": true
+  },
+  {
+    "nome": "Pastelzinho de Queijo",
+    "urlfoto": "imagens/salgadinhos/salgadinho10.jpg",
+    "descricao": "Mini pastel recheado com queijo mussarela derretido e massa crocante.",
+    "quantidade_unidades": 50,
+    "categoria": "frito-congelado",
+    "novidade": false
+  },
+  {
+    "nome": "Esfiha de Carne",
+    "urlfoto": "imagens/salgadinhos/salgadinho11.jpg",
+    "descricao": "Esfiha de massa leve recheada com carne moída e temperos tradicionais.",
+    "quantidade_unidades": 50,
+    "categoria": "forno",
+    "novidade": false
+  }
+]
